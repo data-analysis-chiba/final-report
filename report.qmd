@@ -1,0 +1,36 @@
+---
+title: "Your title here"
+author: Your Name
+format: docx
+---
+
+```{r}
+#| label: setup
+#| echo: false
+#| message: false
+
+# Load packages
+library(tidyverse)
+```
+
+## Introduction
+
+- What is the dataset **about**?
+
+- Where does the dataset **come from**?
+
+- What **question(s)** will you answer by analyzing the dataset?
+
+## Data visualization
+
+- Please generate **at least two graphs** that show relationships between variables in the data
+
+## Discussion
+
+- What is the **message** in your data visualization?
+
+- What **insights** can the dataset provide (in other words, **what conclusions** can you draw from the data)?
+
+## References
+
+- List any references that you cite here. You may use any reference style, as long as you are consistent.
