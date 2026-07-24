@@ -2,6 +2,8 @@
 title: "Your title here"
 author: Your Name
 format: docx
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r}
